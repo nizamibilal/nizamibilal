@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bilal Nizami
 
-- 🔭 I’m currently working as Application Scientist at [ChemAxon](https://chemaxon.com/)  ...
+- 🔭 I currently work as an Application Scientist at [ChemAxon](https://chemaxon.com/)  ...
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nizamibilal&show_icons=true" alt="nizamibilal" />
