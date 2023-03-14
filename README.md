@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bilal Nizami
 
-- 🔭 I currently work as an Application Scientist at [ChemAxon](https://chemaxon.com/)  ...
+- 🔭 I currently work as a Senior Scientist (Computational chemistry/Molecular architect) at [Evotec](https://evotec.com/)  ...
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nizamibilal&show_icons=true" alt="nizamibilal" />
