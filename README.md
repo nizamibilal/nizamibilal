@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Bilal Nizami
 
-- 🔭 I currently work as a Senior Scientist (Chemoinformatics) at [Moa Technology](https://www.moa-technology.com/)  ...
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nizamibilal&show_icons=true" alt="nizamibilal" />
 <br/>
